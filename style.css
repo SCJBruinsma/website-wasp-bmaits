@@ -20,8 +20,8 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#56887d ;
-}
+  color:#c7713e ;
+}56887d
 a:focus {
   outline: thin dotted;
 }
@@ -122,14 +122,14 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#56887d;
+  color:#c7713e;
 }
 ul.main-menu li a:hover {
   color:#FFFFFF;
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#56887d;
+  border-bottom-color:#c7713e;
 }
 
 /* Utility classes */
