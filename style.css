@@ -122,14 +122,14 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#ECF4f9;
+  color:#56887d;
 }
 ul.main-menu li a:hover {
   color:#FFFFFF;
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#C7713E;
+  border-bottom-color:#56887d;
 }
 
 /* Utility classes */
