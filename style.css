@@ -140,5 +140,11 @@ ul.main-menu li a.active {
   display:block;
 }
 
+/* Tables */
+.space {
+  background: none;
+  /* make the width small, but setting it to 0 will actual default to the same width as other cells */
+  width: 0.1rem;
+}
 
 
