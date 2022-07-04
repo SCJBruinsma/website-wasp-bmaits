@@ -95,16 +95,16 @@ html, #container, .inner { background-color:transparent;}
 html {
   background:url(background.jpg) center center no-repeat fixed;
   background-size:cover;
-  background-color: rgb(120,180,216);
+  background-color: rgba(120,180,216,0.4)
 }
 body {
   max-width:800px;
   margin:25px auto;
-  background-color: rgb(120,180,216);
+  background-color: rgba(120,180,216,0.4)
   color:#D8EAF4
 }
 header, #content, footer { 
-  background-color: rgb(120,180,216);
+  background-color: rgba(120,180,216,0.4)
   padding:25px;
   color:#FFFFFF; 
 }
