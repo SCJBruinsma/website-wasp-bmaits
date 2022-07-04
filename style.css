@@ -100,7 +100,8 @@ html {
 body {
   max-width:800px;
   margin:25px auto;
-  background-color: rgba(120,180,216,0.4)
+  background-color: rgba(120,180,216,0.4);
+  opacity: 0.4;
   color:#D8EAF4
 }
 header, #content, footer { 
