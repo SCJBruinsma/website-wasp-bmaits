@@ -96,17 +96,17 @@ html, #container, .inner { background-color:transparent;}
 html {
   background:url(background.jpg) center center no-repeat fixed;
   background-size:cover;
-  background-color: rgba(120,180,216,0.4)
+  background-color: rgba(120,180,216,0.8)
 }
 body {
   max-width:800px;
   margin:25px auto;
-  background-color: rgba(120,180,216,0.4);
+  background-color: rgba(120,180,216,0.8);
   opacity: 0.8;
   color:#D8EAF4
 }
 header, #content, footer { 
-  background-color: rgba(120,180,216,0.4)
+  background-color: rgba(120,180,216,0.8)
   padding:25px;
   color:#FFFFFF; 
 }
