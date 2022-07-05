@@ -11,8 +11,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  opacity: 0.6;
-  background-color: rgba(120,180,216,0.6)
+  opacity: 0.8;
+  background-color: rgba(120,180,216,0.8)
 }
 
 /**
@@ -102,7 +102,7 @@ body {
   max-width:800px;
   margin:25px auto;
   background-color: rgba(120,180,216,0.4);
-  opacity: 0.4;
+  opacity: 0.8;
   color:#D8EAF4
 }
 header, #content, footer { 
